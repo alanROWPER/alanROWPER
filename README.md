@@ -2,7 +2,7 @@
   <p align="center">  <img width="19" height="19" alt="image" src="https://github.com/user-attachments/assets/d3e61503-8006-4942-b013-4ffded9cb609" />
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wee2qayrxiuhe7xyjdjcbbj774&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffa819&interchange=false&profanity=false&hide_remaster=false&bar_color=ffc50f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wee2qayrxiuhe7xyjdjcbbj774&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ff8409&interchange=true&profanity=false&hide_remaster=false&bar_color=ffa14e&bar_color_cover=false">
   </a>
 </p>
                   <p align="center">        "  𝘣𝘦𝘭𝘪𝘦𝘷𝘦 𝘪𝘯 𝘮𝘺𝘴𝘦𝘭𝘧 !  "   <p align="center">  ۷ɛཞ . 2
