@@ -8,4 +8,5 @@
                   <p align="center">        "  𝘣𝘦𝘭𝘪𝘦𝘷𝘦 𝘪𝘯 𝘮𝘺𝘴𝘦𝘭𝘧 !  "   <p align="center">  ۷ɛཞ . 2
 <p align="center"> <img width=300" height="200" alt="image" src="https://github.com/user-attachments/assets/90312777-e834-4273-a5ab-3216a4c6db7f" />
  <p align="center">  disc ; queenchrysalisxx      <p align="center">  rblx  : xaybitez 
+ <p align="center">  MY OTHER MAIN IS @itrappedddd
  <p align="center"> might update this cuz idk what im doing LMAO i only watched like a few videos on how to makw a readme...
